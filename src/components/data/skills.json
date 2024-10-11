@@ -1,0 +1,53 @@
+[
+  {
+    "skill": "HTML",
+    "class": "text-blue-800 w-[20px] h-[25px]",
+    "path": "/html.png"
+  },
+
+  {
+    "skill": "CSS",
+    "class": " w-[20px] h-[20px] m-2",
+    "path": "/css.png"
+  },
+  {
+    "skill": "Javascript",
+    "class": " w-[25px] h-[25px] m-2",
+    "path": "/js.svg"
+  },
+  {
+    "skill": "Reactjs",
+    "class": " w-[25px] h-[25px] m-2",
+    "path": "/8679420_reactjs_line_icon.svg"
+  },
+  {
+    "skill": "Node js",
+    "class": " w-[10px] h-[10px] m-2",
+    "path": "/4375017_js_logo_node_icon.svg"
+  },
+  {
+    "skill": "TypeScript",
+    "class": " w-[25px] h-[25px] m-1",
+    "path": "/9073601_typescript_icon.svg"
+  },
+  {
+    "skill": "Tailwind CSS",
+    "class": " w-[25px] h-[25px] m-2",
+    "path": "/9074204_tailwind_icon.svg"
+  },
+  {
+    "skill": "BootStrap",
+    "class": " w-[25px] h-[25px] m-2 text-red-400",
+    "path": "/8546808_bootstrap_icon.svg"
+  },
+  {
+    "skill": "Git",
+    "class": " w-[25px] h-[25px] m-2",
+    "path": "/2993773_git_social media_icon.svg"
+  },
+  {
+    "skill": "Git Hub",
+    "class": " w-[25px] h-[25px] m-2",
+    "path": "/github.svg"
+  }
+]
