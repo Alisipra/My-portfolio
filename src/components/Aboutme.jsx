@@ -5,10 +5,15 @@ export default function Aboutme() {
     <>
       <div className="main flex lg:flex-row flex-col lg:mt-[50px] mt-[80px]">
         <div
-          className="left lg:basis-[50%] basis-[100%] p-3 rounded-2"
+          className="left lg:basis-[50%] basis-[100%] p-2 rounded-2"
           data-aos="fade-right"
         >
-          <img src="/aboutimg.png" alt="" loading="lazy" />
+          <img
+            src="/aboutimg.png"
+            alt=""
+            // loading="lazy"
+            className="w-[100%] h-[400px]"
+          />
         </div>
 
         <div className="right lg:basis-[50%]">
@@ -16,8 +21,8 @@ export default function Aboutme() {
             About Me
           </h1>
           <p
-            data-aos="fade-up"
-            class="text-base lg:text-lg aos-init aos-animate p-2"
+            // data-aos="fade-up"
+            className="text-base lg:text-lg aos-init aos-animate p-2"
           >
             I am fullstack web developer, I am proficient in fullstack
             technology, capable of building complete web applications from start

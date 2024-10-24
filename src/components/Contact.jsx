@@ -44,8 +44,7 @@ export default function Contact() {
               >
                 <path d="M3.4 81.7c-7.9 15.8-1.5 35 14.3 42.9L280.5 256 17.7 387.4C1.9 395.3-4.5 414.5 3.4 430.3s27.1 22.2 42.9 14.3l320-160c10.8-5.4 17.7-16.5 17.7-28.6s-6.8-23.2-17.7-28.6l-320-160c-15.8-7.9-35-1.5-42.9 14.3z"></path>
               </svg>
-              <h1 className="text-white absolute transform -translate-x-1/8 -translate-y-1/2 top-1/2 -right-[395%] sm:-right-[540%] md:-right-[590%] lg:-right-[520%] text-[16px] sm:text-[19px] md:text-[21px] lg:text-[22px]">
-                {" "}
+              <h1 className="text-white absolute transform -translate-x-1/8 md:-translate-x-1/4 -translate-y-1/2 top-1/2 -right-[395%] sm:-right-[540%] md:-right-[590%] lg:-right-[520%] text-[16px] sm:text-[19px] md:text-[21px] lg:text-[22px]">
                 alisipra783@gmail.com
               </h1>
             </li>

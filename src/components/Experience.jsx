@@ -3,7 +3,7 @@ import React from "react";
 export default function Experience() {
   return (
     <>
-      <div className="mt-10 lg:text-[45px] text-24 text-center">
+      <div className="mt-10 md:text-[45px] text-24 text-center">
         <span
           data-aos="fade-up"
           className="bg-gradient-to-r from-purple-500 to-pink-500 text-transparent bg-clip-text font-bold aos-init aos-animate"

@@ -9,7 +9,7 @@ export default function Hero() {
 
   return (
     <>
-      <div className="main flex lg:flex-row flex-col">
+      <div className="main flex md:flex-row flex-col">
         {/* left div */}
         <div
           className="col-span-7 px-12  md:px-14 text-center sm:text-left"

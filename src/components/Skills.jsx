@@ -5,7 +5,7 @@ export default function Skills() {
     <>
       <div className="mt-10">
         <h1
-          className="font-bold aos-init aos-animate text-center text-[24px] lg:text-[45px]"
+          className="font-bold aos-init aos-animate text-center text-[24px] md:text-[45px]"
           data-aos="fade-down"
         >
           Skills
